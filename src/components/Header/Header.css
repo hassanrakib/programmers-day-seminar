@@ -1,0 +1,12 @@
+/* Header Component */
+header {
+  background: rgb(97 43 238);
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+header a {
+  font-weight: bold;
+  color: rgb(244, 248, 6);
+  /* text-decoration: none; */
+}

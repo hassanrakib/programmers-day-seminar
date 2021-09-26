@@ -1,0 +1,74 @@
+ [
+  {
+    "name": "Ryan Dahl",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVVNcSYL-6rmM2jQBdCnEhGZNf9uR1WJ_UQ&usqp=CAU",
+    "knownFor": "Node JS",
+    "education": "UC San Diego University of Rochester",
+    "cost": 5000,
+    "age" : 40
+  },
+  {
+    "name": "Eric Allman",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eric_Allman_2018.jpg/220px-Eric_Allman_2018.jpg",
+    "knownFor": "SendMail",
+    "education": "University of California, Berkeley",
+    "cost": 3000,
+    "age" : 52
+  },
+  {
+    "name": "Brian Behlendorf",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Brian_Behlendorf_at_INTEROP.jpg/220px-Brian_Behlendorf_at_INTEROP.jpg",
+    "knownFor": "Apache",
+    "education": "University of California",
+    "cost": 3500,
+    "age" : 50
+  },
+  {
+    "name": "Tim Berners-Lee",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/220px-Sir_Tim_Berners-Lee_%28cropped%29.jpg",
+    "knownFor": "World Wide Web",
+    "education": "The Queens College, Oxford",
+    "cost": 5600,
+    "age" : 65
+  },
+  {
+    "name": "Joshua Bloch",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Joshuabloch.jpg/220px-Joshuabloch.jpg",
+    "knownFor": "Java Collections Framework",
+    "education": "Columbia University",
+    "cost": 2000,
+    "age" : 55
+  },
+  {
+    "name": "Walter Bright",
+    "img": "https://wiki.installgentoo.com/images/thumb/8/87/Wbright.jpg/250px-Wbright.jpg",
+    "knownFor": "D Programming Language",
+    "education": "University of California",
+    "cost": 3200,
+    "age" : 49
+  },
+  {
+    "name": "Per Brinch Hansen",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Per_Brinch_Hansen_-_1975.jpg",
+    "knownFor": "Parellel Computing",
+    "education": "Columbia University",
+    "cost": 4000,
+    "age" : 47
+  },
+  {
+    "name": "Dries Buytaert",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dries_Buytaert_at_FOSDEM_2008_by_Wikinews.jpg/220px-Dries_Buytaert_at_FOSDEM_2008_by_Wikinews.jpg",
+    "knownFor": "Drupal & Acquia",
+    "education": "Ghent University, Belgium",
+    "cost": 5000,
+    "age" : 35
+  },
+  {
+    "name": "Friedrich L. Bauer",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FriedrichLudwigBauer.jpg/220px-FriedrichLudwigBauer.jpg",
+    "knownFor": "Stack Data Structure",
+    "education": "Ludwig-Maximilians-Universität",
+    "cost": 5500,
+    "age" : 70
+  }
+]

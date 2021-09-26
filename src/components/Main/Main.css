@@ -1,0 +1,22 @@
+main {
+  max-width: 95%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 3fr 0.9fr;
+  grid-gap: 30px;
+  margin-top: 20px;
+}
+/* style for container of cards (Programmer Component) */
+.programmers {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+/* cart container */
+.cart-container {
+  border-left: 2px dashed rgb(97 43 238);
+  background: rgb(240, 245, 151);
+  padding: 15px;
+  height: 300px;
+  overflow: auto;
+}
