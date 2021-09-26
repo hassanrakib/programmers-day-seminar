@@ -1,7 +1,6 @@
 # Programmers' Day - Seminar
-Organized by [Programming Hero](https://www.programming-hero.com)
 
-Application Link - [Organizing Programmers' Seminar App](https://programmers-seminar.netlify.app/)
+Application Link - [Organizing Programmers' Seminar - App](https://programmers-seminar.netlify.app/)
 
 - The Application is made using React JS framework.
 - It helps you to invite well-known programmers to give lecture in your seminars.  
